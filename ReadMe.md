@@ -15,3 +15,7 @@ less content on mobile devices?
 
 
 
+## utility classes
+Are css classes you make so you can use anywhere
+
+like container, or text-primary
