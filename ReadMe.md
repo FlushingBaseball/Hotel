@@ -13,7 +13,9 @@ Font size
 less content on mobile devices? 
 
 
-
+ # images
+ images are by default displayed inline, so change them to block
+ make them 100% of their container? 
 
 ## utility classes
 Are css classes you make so you can use anywhere
