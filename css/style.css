@@ -33,6 +33,12 @@ p{
 /*
 Utility classes
 */
+
+.clr {
+    clear: both;
+}
+
+
 .container{
     margin: auto;
     max-width: 1100px;
@@ -40,9 +46,6 @@ Utility classes
     padding: 0, 20px;
 }
 
-.bg-dark{
-    background: #333;
-}
 
 .text-primary{
     color: #f7c08a;
@@ -187,4 +190,30 @@ Utility classes
 
 #home-info .info-content p {
     padding-bottom: 30px;
+}
+
+
+/* Features */
+
+.box{
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+
+}
+
+.box i{
+    margin-bottom: 10px;
+}
+
+
+
+/**/
+
+#main-footer{
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
 }

@@ -19,3 +19,8 @@ less content on mobile devices?
 Are css classes you make so you can use anywhere
 
 like container, or text-primary
+
+
+
+# border box
+if you set things to border box then padding wont add to the width
