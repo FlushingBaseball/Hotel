@@ -318,3 +318,11 @@ Utility classes
     outline: none;
     border-color: #f7c08a;
 }
+
+
+@media(max-width: 500px) {
+    body{
+    background: red;
+
+    }
+}
