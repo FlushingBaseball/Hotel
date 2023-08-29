@@ -1,7 +1,35 @@
+## clear out default margin and padding
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+## background considerations
+background #333 url('https://source.unsplash.com/daily)
+no-repeat center center/cover
+
+
+
 Responsive Design
+## em
+em is relatvie to the font size of its parent container, theres some weird edge cases which
+make them less usefull
 
+## rem
+rem is relative to the root html element 
 
+a common practice is to set the
 
+html {
+    font-size: 10px;
+}
+so you know what your multiplisties are instead of doing mental math based on the default which is 16px
+
+its great for assessibility! 
+
+## links
+by default links are inline
 
 ## MEDIA QUERIES
 

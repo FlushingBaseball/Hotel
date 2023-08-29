@@ -115,7 +115,7 @@ Utility classes
 }
 
 
-#navbar h1 {
+#navbar .logo {
     float: left;
     padding-top: 20px;
 }
@@ -210,6 +210,7 @@ Utility classes
 
 .l-heading{
     font-size: 40px;
+    line-height: 1.2;
 }
 
 
@@ -278,7 +279,7 @@ Utility classes
 
 
 #testimonials {
-    height: 600px;
+    height: 100%;
     background: url('../img/test-bg.jpg') no-repeat
     center center/cover;
     padding-top: 40px;
@@ -320,9 +321,9 @@ Utility classes
 }
 
 
-@media(max-width: 500px) {
+/* @media(max-width: 500px) {
     body{
     background: red;
 
     }
-}
+} */
