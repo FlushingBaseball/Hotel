@@ -7,7 +7,10 @@ media queries, different css styling for different screen sizes
 ## rem over px
 Font size
 
-
+# ctrl - d 
+highlight next instance
+lorem
+. and #
 
 ## mobile first method  
 less content on mobile devices? 
